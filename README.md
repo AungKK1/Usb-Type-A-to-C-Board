@@ -48,10 +48,10 @@ To design a 10 Gbps USB conversion board using high-speed layout strategies, lea
 
 ## 📎 Files
 
-- [`/docs`](./docs): Schematic, layout image, stack-up planner (Sierra Circuits)
-- [`/gerbers`](./gerbers): Standard fabrication files
-- [`/odb++`](./odb++): Full manufacturing database for fabrication and assembly
-- [`/bom`](./bom): Component list with part numbers and footprints
+- [`/Documents`](./docs): Schematic, layout image, stack-up planner (Sierra Circuits)
+- [`/Gerber`](./Gerber): Standard fabrication files
+- [`/ODB++`](./ODB++): Full manufacturing database for fabrication and assembly
+- [`/BOM`](./BOM): Component list with part numbers and footprints
 
 > ⚠️ This board was not physically produced. Designed using OrCAD as part of Hasofu Academy's hardware accelerator training.
 
